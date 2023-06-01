@@ -1,0 +1,17 @@
+{
+    "bracketPairColorizer.activeScopeCSS": [
+
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}; opacity: 0.5"
+    ],
+    
+
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    
+    },
+    //"editor.language.colorizedBracketPairs": false
+}
+
+
